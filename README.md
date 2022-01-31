@@ -1,5 +1,5 @@
 
-<h2 align = "center"> Ivan Pibiri </h2>
+<h2 align = "center" >:large_blue_circle: Ivan Pibiri :large_blue_circle:</h2>
 
 ***
 
