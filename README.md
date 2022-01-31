@@ -1,5 +1,5 @@
 
-<h2 align = "center"> Ivan Pibiri </h2>
+<h2 align = "center"><img src="C:\Users\pibir\OneDrive\Immagini\Icone\traffic-signal.png" alt="romb icon" style=";width:22px;height:22px;"> Ivan Pibiri <img src="C:\Users\pibir\OneDrive\Immagini\Icone\traffic-signal.png" alt="romb icon" style=";width:22px;height:22px;"></h2>
 
 ***
 
