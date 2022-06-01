@@ -3,6 +3,6 @@
 
 ***
 
-<p align = "center">Currently studying to become <strong>Full Stack Web Developer</strong></p>
+<p align = "center"><strong>Junior Full Stack Web Developer</strong></p>
 
 
